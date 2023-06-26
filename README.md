@@ -1,4 +1,1 @@
-- oi meu nome é @kazuhar
-- meu email de contato é oliveira.cordeiro.carlos@escola.pr.gov.br
-- atualmente estou aprendendo a programar novas linguagens
-- eu estou aprendendo a programar recentemente a linguagem JavaScript e Scrath
+# aluraplus
